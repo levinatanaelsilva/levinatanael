@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Levi Natanael, fullstack .NET 😀
 ##
-Desde 2007 atuando com análise e desenvolvimento de sistemas em .NET. Possuo experiências com C#, .NET Core, ASP.NET WebForms, MVC, Angular 2+, API RESTFul, EntityFramework, Dapper, SOLID, CleanCode, Teste Unitário, RabbitMQ, BootStrap, Integração SAP via RFC/PI, HTML5, JQuery, SQL Server, Oracle, PostgreSQL, MySQL, Stored Procedures, Sonar, Redis, Docker, Tortoise SVN, Git, TFS, Scrum e Kanbam.
+Especializado em desenvolvimento e análise de sistemas em .NET. Possuo experiências com C#, .NET Core, Azure, ASP.NET WebForms, MVC, Angular, API RESTFul, EntityFramework, Dapper, SOLID, CleanCode, Teste Unitário, RabbitMQ, BootStrap, Integração SAP via RFC/PI, HTML5, JQuery, SQL Server, Oracle, PostgreSQL, MySQL, Stored Procedures, Tortoise SVN, Git, TFS, Scrum e Kanbam.
 <div style="display: inline_block;">
 	<img align="center" alt="Levi-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
 	<img align="center" alt="Levi-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
