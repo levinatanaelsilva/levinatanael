@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Levi Natanael, fullstack .NET 😀
 ##
-Especializado em desenvolvimento e análise de sistemas em .NET. Possuo experiências com C#, .NET Core, Azure, ASP.NET WebForms, MVC, Angular, API RESTFul, EntityFramework, Dapper, SOLID, CleanCode, Teste Unitário, RabbitMQ, BootStrap, Integração SAP via RFC/PI, HTML5, JQuery, SQL Server, Oracle, PostgreSQL, MySQL, Stored Procedures, Tortoise SVN, Git, TFS, Scrum e Kanbam.
+Especializado em desenvolvimento e análise de sistemas em .NET. Possuo experiências com C#, .NET Core, Azure, ASP.NET WebForms, MVC, Angular, API RESTFul, EntityFramework, NHibernate, Dapper, SOLID, CleanCode, Teste Unitário, RabbitMQ, BootStrap, Integração SAP via RFC/PI, HTML5, JQuery, SQL Server, Oracle, PostgreSQL, MySQL, Stored Procedures, Tortoise SVN, Git, TFS, Swagger, Scrum e Kanbam.
+
 <div style="display: inline_block;">
 	<img align="center" alt="Levi-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
 	<img align="center" alt="Levi-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
@@ -21,3 +22,10 @@ Especializado em desenvolvimento e análise de sistemas em .NET. Possuo experiê
   <a href="mailto:levi.natanael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5519997931533" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+## Estudando
+
+- [ ] Node.js
+- [ ] Kafka
+- [ ] Kubernetes
+- [ ] Microserviços
