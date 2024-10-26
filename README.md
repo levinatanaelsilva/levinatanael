@@ -28,4 +28,4 @@ Especializado em desenvolvimento e análise de sistemas em .NET. Possuo experiê
 - [ ] Node.js
 - [ ] Kafka
 - [ ] Kubernetes
-- [ ] Microserviços
+- [ ] React
