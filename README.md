@@ -2,18 +2,7 @@
 ##
 Especializado em desenvolvimento e análise de sistemas em .NET. Possuo experiências com C#, .NET Core, Azure, ASP.NET WebForms, MVC, Angular, API RESTFul, EntityFramework, NHibernate, Dapper, SOLID, CleanCode, Testes Unitários, Sonar, Jenkins, Swagger, RabbitMQ, BootStrap, Integração SAP via RFC/PI, HTML5, JQuery, SQL Server, Oracle, PostgreSQL, MySQL, Stored Procedures, Tortoise SVN, Git, TFS, Scrum e Kanbam.
 
-<div style="display: inline_block;">
-	<img align="center" alt="Levi-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-Oracle" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-	<img align="center" alt="Levi-Typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-Html5" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-Css" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
-	<img align="center" alt="Levi-Git" height="30" width="40" src="https://icongr.am/devicon/git-plain-wordmark.svg?size=128&color=currentColor">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,html,css,angular,azure,bootstrap,docker,git,github,jenkins,mysql,npm,postman,powershell,redis,sqlite,ts,vscode)](https://skillicons.dev)
 
 ##
 
